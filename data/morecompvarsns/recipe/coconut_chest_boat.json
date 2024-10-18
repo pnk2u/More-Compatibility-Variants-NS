@@ -1,0 +1,25 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "lolmcv"
+      ]
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "chest_boat",
+  "ingredients": [
+    {
+      "tag": "morecompvarsns:chests"
+    },
+    {
+      "item": "natures_spirit:coconut_boat"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "natures_spirit:coconut_chest_boat"
+  }
+}
